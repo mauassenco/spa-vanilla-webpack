@@ -2,5 +2,5 @@
 Simple SPA project without frameworks, using only Vanilla Javascript and Webpack
 
 How to run:
-
-npx webpack-dev-server
+- npx webpack-dev-server
+- access http://localhost:8080/#/
