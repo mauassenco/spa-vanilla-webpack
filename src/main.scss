@@ -1,0 +1,20 @@
+$bg_primary: #333;
+
+body {
+    margin: 30px 60px;
+}
+
+h1 {
+    padding: 15px 0;
+}
+a {
+    font-size: 20px;
+}
+
+h5{
+    text-transform: capitalize;
+}
+
+p:first-letter {
+    text-transform: uppercase;
+}
